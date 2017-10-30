@@ -1,0 +1,5 @@
+print "Hello word"
+print "Saya Sedang Makan"
+print "Saya menggunakan Linux"
+print "Saya menggunakan text editor Namanya Geny"
+print "Selamat Belajar python"
